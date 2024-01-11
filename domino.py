@@ -1,5 +1,3 @@
-#Domino
-
 import random as rd
 
 def listDomino():   #créer la liste de domino sans répétition
